@@ -5,6 +5,10 @@
   "main": "index.js",
   "author": "isuru_sampath",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/javascriptBoiler/color-fade.git"
+  },
   "keywords": [
     "color",
     "fade",

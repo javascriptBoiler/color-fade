@@ -1,0 +1,14 @@
+{
+  "name": "color-fade",
+  "version": "1.0.6",
+  "description": "fade two colors on specific time period ",
+  "main": "index.js",
+  "author": "isuru_sampath",
+  "license": "MIT",
+  "keywords": [
+    "color",
+    "fade",
+    "range",
+    "fade-color"
+  ]
+}
